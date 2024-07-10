@@ -25,7 +25,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 **Navigate to the project directory**: cd crypto-displayer  
 **Install dependencies** : npm install   # or using yarn: yarn install  
 **Start the development serve**: npm start  
-Open your web browser and visit http://localhost:3000 to view the application.  
+Open your web browser and visit http://localhost:3000 .  
 
 ## Technology 
 
